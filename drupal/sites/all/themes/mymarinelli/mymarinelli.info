@@ -15,7 +15,7 @@ base theme = marinelli
 ;stylesheets[all][] = css/slideshow.css
 ;stylesheets[all][] = css/secondary-links.css
 ;stylesheets[all][] = css/blocks.css
-;stylesheets[all][] = css/node.css
+stylesheets[all][] = css/node.css
 ;stylesheets[all][] = css/comments.css
 
 regions[topbar] = Topbar
