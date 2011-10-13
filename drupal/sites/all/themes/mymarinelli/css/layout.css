@@ -190,7 +190,7 @@ body.marinelli{
 }
 	
 #topBar,#topBarLink,#topBarLink a{ /* top toggle bar */
-	background:#054b81;
+	background:#1e3b59;
 }
 
 #topBarLink a{
@@ -218,7 +218,7 @@ body.marinelli{
 }
 
 #pageBorder{ /* border of the whole site */ 
-	border:10px solid #054b81;
+	border:10px solid #1e3b59;
 }
 	
 #pageBorder.noborder{ /* when we don't have the advertise region */ 
