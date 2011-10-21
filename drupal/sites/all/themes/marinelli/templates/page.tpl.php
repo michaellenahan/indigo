@@ -32,8 +32,8 @@
       <div id="branding">
 <div id="logo-container">
 <a href="/" title="Back to homepage" class="active"><img id="logo" typeof="foaf:Image" src="http://indigo.local/sites/default/files/indigo-transparent-550x100.png" alt=""></a>
-<a href="/" title="Levi Strauss Foundation" class="active"><img id="logo" typeof="foaf:Image" src="http://indigo.local/sites/default/files/levi-strauss-transparent-300x100.png" alt=""></a>
-<a href="/" title="International Association for Community Development" class="active"><img id="logo" typeof="foaf:Image" src="http://indigo.local/sites/default/files/iacd-transparent-188x100.png" alt=""></a>
+<a href="http://www.levistrauss.com/about/foundations/levi-strauss-foundation" title="Levi Strauss Foundation" class="active"><img id="logo" typeof="foaf:Image" src="http://indigo.local/sites/default/files/levi-strauss-transparent-300x100.png" alt=""></a>
+<a href="http://www.iacdglobal.org/" title="International Association for Community Development" class="active"><img id="logo" typeof="foaf:Image" src="http://indigo.local/sites/default/files/iacd-transparent-170x100.png" alt=""></a>
 </div>
         <?php if($site_name || $siteslogan ): ?>
           <!--start title and slogan-->
