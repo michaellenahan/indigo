@@ -19,6 +19,7 @@
 }
 
 span.teaser-sticky{ /* sticky icon */
+  display:none;
 	padding: 1px 4px;
 	position: relative;
 	top:-2px;
@@ -135,6 +136,7 @@ span.node-status-unpublished{
 }
 
 span.teaser-sticky{
+  display:none;
 	background: red;
 	border:1px solid #e50404;
 	color: white;
